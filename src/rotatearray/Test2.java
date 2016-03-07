@@ -31,16 +31,16 @@ public class Test2 {
 //        int[][] f = {
 //                {2, 0, 3},
 //                {3, 2, 1}};
-//        System.out.println(ArrayUtils.rotateClockwise(a));
+//        System.out.println(MyArray.rotateClockwise(a));
 
-//        System.out.println(ArrayUtils.rotateClockwise(c));
+//        System.out.println(MyArray.rotateClockwise(c));
 //
         System.out.println(ar.length);
-//        System.out.println(ArrayUtils.isArraySquare(b));
-//        System.out.println(ArrayUtils.isArraySquare(c));
-//        System.out.println(ArrayUtils.isArraySquare(d));
-//        System.out.println(ArrayUtils.isArraySquare(e));
-//        System.out.println(ArrayUtils.isArraySquare(f));
+//        System.out.println(MyArray.isArraySquare(b));
+//        System.out.println(MyArray.isArraySquare(c));
+//        System.out.println(MyArray.isArraySquare(d));
+//        System.out.println(MyArray.isArraySquare(e));
+//        System.out.println(MyArray.isArraySquare(f));
 
 
 
